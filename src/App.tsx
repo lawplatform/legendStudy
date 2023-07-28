@@ -5,7 +5,6 @@ import Child_Two from './Child_two'
 import Child from './Child'
 
 function App() {
-	const [count, setCount] = useState(0)
 
 	return (
 		<>
